@@ -1,5 +1,13 @@
 <h2 align="center">
   <br>
+  <img src="https://github.com/Kvijay199428/repo.jiotv/blob/main/Kvijay.repo/icon2.png" height="100" width="100">
+  <br>
+  Kvijay
+  <br>
+</h2>
+
+<h2 align="center">
+  <br>
   <img src="resources/icon.png" height="60" width="60">
   <br>
   JioTV
