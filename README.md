@@ -24,4 +24,4 @@ This plugin is not officially commissioned/supported by Jio. The trademark "Jio"
 
 ## Download
 
-[**Download**](https://github.com/botallen/plugin.video.jiotv/releases/latest) the `.zip` file.
+[**Download**](https://raw.githubusercontent.com/Kvijay199428/kodi.repo/main/zip/kodi.repo.jiotv.zip) the `.zip` file.
