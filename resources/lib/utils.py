@@ -48,13 +48,13 @@ def isLoggedIn(func):
             Script.notify(
                 "Login Error", "Session expired. Please login again")
             executebuiltin(
-                "RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/login/)")
+                "RunPlugin(plugin://kodi.repo.jiotv/resources/lib/main/login/)")
             return False
         else:
             Script.notify(
                 "Login Error", "You need to login with Jio Username and password to use this add-on")
             executebuiltin(
-                "RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/login/)")
+                "RunPlugin(plugin://kodi.repo.jiotv/resources/lib/main/login/)")
             return False
     return login_wrapper
 

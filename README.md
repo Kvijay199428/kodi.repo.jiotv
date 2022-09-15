@@ -1,13 +1,5 @@
 <h2 align="center">
   <br>
-  <img src="https://github.com/Kvijay199428/repo.jiotv/blob/main/Kvijay.repo/icon2.png" height="100" width="100">
-  <br>
-  Kvijay
-  <br>
-</h2>
-
-<h2 align="center">
-  <br>
   <img src="resources/icon.png" height="60" width="60">
   <br>
   JioTV
@@ -24,4 +16,4 @@ This plugin is not officially commissioned/supported by Jio. The trademark "Jio"
 
 ## Download
 
-[**Download**](https://github.com/Kvijay199428/kodi.jiotv/archive/refs/heads/main.zip) the `.zip` file.
+[**Download**](https://github.com/botallen/plugin.video.jiotv/releases/latest) the `.zip` file.

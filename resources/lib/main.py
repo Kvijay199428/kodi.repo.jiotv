@@ -382,7 +382,7 @@ def m3ugen(plugin, notify="yes"):
 @Script.register
 def pvrsetup(plugin):
     executebuiltin(
-        "RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/m3ugen/)")
+        "RunPlugin(plugin://kodi.repo.jiotv/resources/lib/main/m3ugen/)")
     IDdoADDON = 'pvr.iptvsimple'
 
     def set_setting(id, value):
