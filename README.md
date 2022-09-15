@@ -1,6 +1,14 @@
 <h2 align="center">
   <br>
-  <img src="resources/icon.png" height="60" width="60">
+  <a href="https://github.com/Kvijay199428/kodi.repo"><img src="https://github.com/Kvijay199428/kodi.repo/blob/main/resources/icon2.png" height="60" width="60"></a>
+  <br>
+  Kvijay
+  <br>
+</h2>
+
+<h2 align="center">
+  <br>
+  <a href="https://github.com/Kvijay199428/kodi.repo.jiotv"><img src="resources/icon.png" height="60" width="60"></a>
   <br>
   JioTV
   <br>
